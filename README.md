@@ -14,6 +14,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql"width="60" height="60"/>&nbsp;
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongvuthivann)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongvuthivann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
