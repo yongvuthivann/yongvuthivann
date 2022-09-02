@@ -2,6 +2,7 @@
   <h1>Hi there!👋</h1>
   <h3>I'm Vuthivann, also a Software Engineer</h3>
 </div>
+![](https://komarev.com/ghpvc/?username=yongvuthivann&style=flat-square)
 <div>
   <h3>Skills and Experiences ✨</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nestjs" alt="Nestjs" width="60" height="60"/>&nbsp;
