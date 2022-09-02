@@ -2,7 +2,7 @@
   <h1>Hi there!👋</h1>
   <h3>I'm Vuthivann, also a Software Engineer</h3>
 </div>
-![](https://komarev.com/ghpvc/?username=yongvuthivann&style=flat-square)
+
 <div>
   <h3>Skills and Experiences ✨</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nestjs" alt="Nestjs" width="60" height="60"/>&nbsp;
@@ -18,6 +18,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yongvuthivann&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongvuthivann&theme=radical&show_icons=true)
+![](https://komarev.com/ghpvc/?username=yongvuthivann&style=flat-square)
 
 
 
