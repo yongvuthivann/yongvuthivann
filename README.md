@@ -22,9 +22,9 @@
 
 :fire: Streak Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yongvuthivann&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongvuthivann&theme=radical&show_icons=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yongvuthivann&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
