@@ -5,7 +5,7 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/yong-vuthivann-033966149/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp;
+  </a><br/>
   <img src="https://komarev.com/ghpvc/?username=yongvuthivann&style=flat-square&color=blue" alt=""/>
 </div>
 <div>
