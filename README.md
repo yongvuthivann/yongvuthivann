@@ -32,6 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql"width="80" height="80"/>&nbsp;
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongvuthivann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
