@@ -14,7 +14,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql"width="60" height="60"/>&nbsp;
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongvuthivann&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongvuthivann&theme=radical&show_icons=true)
 
 
 
