@@ -21,7 +21,7 @@
 </div>
 <div>
   <h1>Hi there!👋</h1>
-  <p>I'm Vuthivann, also a Software Engineer</p>
+  <h3>I'm Vuthivann, also a Software Engineer</h3>
 </div>
 <div>
   <h3>Skills and Experiences ✨</h3>
