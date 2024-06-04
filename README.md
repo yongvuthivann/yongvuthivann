@@ -9,27 +9,10 @@
   </a><br/>
 </div>
 <div>
-  <h3>Skills and Experiences ✨</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="Nestjs" alt="Nestjs" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" title="Astro" alt="Astro" width="60" height="60"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="Threejs" alt="Threejs" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql"width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker"width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes"width="60" height="60"/>&nbsp;
+  <h3>Skills and Experiences</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,react,nextjs,vue,astro,threejs,tailwindcss,sass,docker,kubernetes,postgres,mysql,mongodb" />
 </div>&nbsp;
 
-:fire: Streak Stats :
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongvuthivann&theme=radical&show_icons=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yongvuthivann&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongvuthivann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
