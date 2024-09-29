@@ -10,7 +10,7 @@
 </div>
 <div>
   <h3>Skills and Experiences</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,react,nextjs,vue,astro,threejs,tailwindcss,sass,docker,kubernetes,postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,fastapi,react,nextjs,vue,astro,threejs,tailwindcss,sass,docker,kubernetes,postgres,mysql,mongodb" />
 </div>&nbsp;
 
 
