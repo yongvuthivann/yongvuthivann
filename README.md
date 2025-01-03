@@ -3,11 +3,11 @@
 </h1>
   <h3>I'm Vuthivann, also a Software Engineer</h3>
 </div>
-<div id="badges">
+<!-- <div id="badges">
   <a href="www.linkedin.com/in/vuthivann-yong-033966149">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br/>
-</div>
+</div> -->
 <div>
   <h3>Skills and Experiences</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,fastapi,react,nextjs,vue,astro,threejs,tailwindcss,sass,docker,kubernetes,postgres,mysql,mongodb" />
